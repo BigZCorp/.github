@@ -6,7 +6,7 @@ We aim to make the best food (and website for ordering) for everyone who wants t
 
 ### Q: What foods do we serve? 
 
-Our first food was [wide noodles](https://bigzcorp.github.io/menu/) but we'll keep adding more.
+Our first food was [wide noodles](https://bigzcorp.github.io/menu/#wide-noodles) but we'll keep adding more.
 
 ## History
 
@@ -24,4 +24,20 @@ Create `README.md`.
 + ### Q: What foods do we serve? 
 + 
 + Our first food was [wide noodles](https://bigzcorp.github.io/menu/) but we'll keep adding more.
+```
+
+### July 1, 2022
+
+Add hash to URL.
+
+```diff
+# Welcome to the Big Z Corp!
+
+We aim to make the best food (and website for ordering) for everyone who wants to eat a :heart: *lovely* :heart: dinner!
+
+## Q&A Section
+
+### Q: What foods do we serve? 
+
+! Our first food was [wide noodles](https://bigzcorp.github.io/menu/#wide-noodles) but we'll keep adding more.
 ```
